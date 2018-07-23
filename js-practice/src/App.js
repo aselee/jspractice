@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React Daniel you little punk</h1>
         </header>
-        new test for sync. at 3:14 PM
+        NEW TEST AFTER LOCAL COFFEE 3:48 pm 
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
