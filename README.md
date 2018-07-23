@@ -1,5 +1,7 @@
 # jspractice
 
+npm install create-react-app <name>
+----
 npm install
 npm start
 
