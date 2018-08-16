@@ -9,6 +9,9 @@ class App extends Component {
       <div>
         <h1>JS Practice Only</h1>
       </div>
+      <div>
+        
+      </div>
     );
   }
 }
